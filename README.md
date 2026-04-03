@@ -1,34 +1,135 @@
-<h1 align="center">Hi 👋, I'm InfoSec-HA</h1>
-<h3 align="center">A Cybersecurity Researcher from Yemen</h3>
-<img align="right" width="400" alt="Cybersecurity" src="https://media.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=2147483647&v=beta&t=gJtNG2yyNA55hJa-1EQ_20QewBtVaz1oMq20GX4e_ic">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=infosec-ha&label=Profile%20views&color=0e75b6&style=flat" alt="infosec-ha" /> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/infosec-ha" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/infosec-ha?logo=twitter&style=for-the-badge" alt="https://twitter.com/infosec-ha" /></a> </p>
-
-- 🔭 I’m currently working on **Mobile application & Web application**
-
-- 🌱 I’m currently learning **Android Application Security**
-
-- 👨‍💻 All of my projects are available at [https://github.com/InfoSec-HA/InfoSec-HA](https://github.com/InfoSec-HA/InfoSec-HA)
-
-- 📝 I regularly write articles on [https://waytobesecure.blogspot.com/](https://waytobesecure.blogspot.com/)
-
-- 💬 Ask me about **Web , Android**
-
-- 📫 How to reach me **secinfo422@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/infosec-ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/infosec-ha" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=InfoSec-HA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm InfoSec-HA</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infosec-ha&show_icons=true&locale=en&layout=compact" alt="infosec-ha" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Offensive+Security+Specialist;Web+%26+Mobile+Pentester;Bug+Bounty+Hunter;Cybersecurity+Researcher&center=true&width=550&height=50">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infosec-ha&show_icons=true&locale=en" alt="infosec-ha" /></p>
+<h3 align="center">💀 Offensive Security | Red Team | Vulnerability Researcher</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infosec-ha&" alt="infosec-ha" /></p>
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=infosec-ha&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/InfoSec-HA?style=flat&color=blue" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://twitter.com/infosec_ha">
+    <img src="https://img.shields.io/twitter/follow/infosec_ha?logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🔥 Cybersecurity Researcher with 4+ years experience  
+- 🛡️ Specialized in Web & Android Security  
+- 🐞 Active Bug Bounty Hunter  
+- ⚔️ Offensive Security & Exploit Development  
+- 🎯 Focused on real-world vulnerabilities  
+
+📫 Contact: **secinfo422@gmail.com**
+
+---
+
+## 🏆 Bug Bounty & Achievements
+
+| Vulnerability | Type | Status |
+|--------------|------|--------|
+| Web Application | Stored XSS | ✅ Reported |
+| API Endpoint | IDOR | ✅ Reported |
+| Authentication | Logic Bug | 🔄 In Progress |
+
+---
+
+## 🚀 Featured Project
+
+### 🛡️ InfoSec-HA Lab
+
+> One-click vulnerable lab for penetration testing
+
+🔗 https://github.com/InfoSec-HA/InfoSec-HA-Lab-V1
+
+✔ Pre-configured vulnerable apps  
+✔ Fast deployment  
+✔ Ideal for Bug Bounty practice  
+
+---
+
+## ⚔️ My Arsenal
+
+| Category | Tools |
+|----------|------|
+| Recon | Subfinder, Amass, Assetfinder |
+| Scanning | Nmap, Nuclei, Dalfox |
+| Exploitation | Burp Suite, SQLmap |
+| Automation | Bash, Python |
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=infosec-ha&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infosec-ha&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=infosec-ha&theme=tokyonight" />
+</p>
+
+---
+
+## 📡 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=infosec-ha&theme=tokyo-night" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://twitter.com/infosec_ha">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
+</a>
+</p>
+
+---
+
+## 💀 Hacker Mindset
+
+> 🔥 "Security is not a product, it's a process."
+
+> ⚔️ "Exploit the system. Don’t trust it."
